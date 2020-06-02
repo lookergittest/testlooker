@@ -1,0 +1,66 @@
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.exe
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csprojAssemblyReference.cache
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.AssemblyInfoInputs.cache
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.AssemblyInfo.cs
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csproj.CopyComplete
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Files.DataLake.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.deps.json
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.runtimeconfig.json
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.runtimeconfig.dev.json
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.pdb
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.dll
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.pdb
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.genruntimeconfig.cache
+C:\Users\Kishan.SubhashRao\source\repos\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csproj.CoreCompileInputs.cache
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.exe
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.deps.json
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.runtimeconfig.json
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.runtimeconfig.dev.json
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.pdb
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Files.DataLake.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csprojAssemblyReference.cache
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.AssemblyInfoInputs.cache
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.AssemblyInfo.cs
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csproj.CoreCompileInputs.cache
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csproj.CopyComplete
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.dll
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.pdb
+C:\Users\Kishan.SubhashRao\source\repos\LIM-Lasalle Genie\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.genruntimeconfig.cache
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.exe
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.deps.json
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.runtimeconfig.json
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.runtimeconfig.dev.json
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\VTS.pdb
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\Azure.Storage.Files.DataLake.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\work\API\VTS\VTS\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csprojAssemblyReference.cache
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csproj.CoreCompileInputs.cache
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.AssemblyInfoInputs.cache
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.AssemblyInfo.cs
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.csproj.CopyComplete
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.dll
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.pdb
+C:\work\API\VTS\VTS\obj\Debug\netcoreapp3.1\VTS.genruntimeconfig.cache
