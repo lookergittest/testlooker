@@ -31,8 +31,7 @@ namespace VTS
             request.AddHeader("Authorization", "Basic");
             IRestResponse response = Client.Execute(request);
             strResponse = response.Content;
-            //Console.WriteLine(strResponse);
-            // Edited...
+            //Console.WriteLine(strResponse);            
             return token;
         }
 
