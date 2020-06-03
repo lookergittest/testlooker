@@ -4860,34 +4860,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\khiroj.sahu\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Ameer.Khan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\API\\VTS\\VTS\\VTS.csproj",
+      "projectUniqueName": "C:\\Users\\Ameer.Khan\\source\\repos\\TrashRepo\\VTS\\VTS.csproj",
       "projectName": "VTS",
-      "projectPath": "C:\\work\\API\\VTS\\VTS\\VTS.csproj",
-      "packagesPath": "C:\\Users\\khiroj.sahu\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\API\\VTS\\VTS\\obj\\",
+      "projectPath": "C:\\Users\\Ameer.Khan\\source\\repos\\TrashRepo\\VTS\\VTS.csproj",
+      "packagesPath": "C:\\Users\\Ameer.Khan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ameer.Khan\\source\\repos\\TrashRepo\\VTS\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\work\\NuGet.Config",
-        "C:\\Users\\khiroj.sahu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Ameer.Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.dotvvm.com/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -4930,12 +4923,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

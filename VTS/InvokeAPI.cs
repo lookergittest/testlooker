@@ -32,6 +32,7 @@ namespace VTS
             IRestResponse response = Client.Execute(request);
             strResponse = response.Content;
             //Console.WriteLine(strResponse);
+            // Edited...
             return token;
         }
 
