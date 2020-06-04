@@ -46,6 +46,7 @@ namespace VTS
             //request.AddHeader("Authorization", "Basic");
             IRestResponse response = Client.Execute(request);
             //Console.WriteLine(response.Content);
+            //edited ....
             var getproperties = response.Content;
             return getproperties;
         }
