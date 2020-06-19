@@ -4860,19 +4860,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nagraj.Shivaraj\\.nuget\\packages\\": {}
+    "C:\\Users\\Prashant.Rshekhar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nagraj.Shivaraj\\source\\repos\\TrashRepo2\\VTS\\VTS.csproj",
+      "projectUniqueName": "C:\\Users\\Prashant.Rshekhar\\Source\\Repos\\TrashRepo3\\VTS\\VTS.csproj",
       "projectName": "VTS",
-      "projectPath": "C:\\Users\\Nagraj.Shivaraj\\source\\repos\\TrashRepo2\\VTS\\VTS.csproj",
-      "packagesPath": "C:\\Users\\Nagraj.Shivaraj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nagraj.Shivaraj\\source\\repos\\TrashRepo2\\VTS\\obj\\",
+      "projectPath": "C:\\Users\\Prashant.Rshekhar\\Source\\Repos\\TrashRepo3\\VTS\\VTS.csproj",
+      "packagesPath": "C:\\Users\\Prashant.Rshekhar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Prashant.Rshekhar\\Source\\Repos\\TrashRepo3\\VTS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nagraj.Shivaraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Prashant.Rshekhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

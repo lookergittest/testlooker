@@ -58,7 +58,7 @@ namespace VTS
             var request = new RestRequest(Method.GET);
             request.AddHeader("Authorization", "Basic");
             IRestResponse response = Client.Execute(request);
-            Console.WriteLine(response.Content);
+            //Console.WriteLine(response.Content);
             var getleaseAbstract = response.Content;
             return getleaseAbstract;
         }
