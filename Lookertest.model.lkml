@@ -22,3 +22,4 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 explore: dynamo_event_session {}
 
 #ignore statement
+#ignore again
