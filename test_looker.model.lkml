@@ -24,3 +24,4 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 explore: property_list__annette {
   label: "Property List"
 }
+#testnewgitinterface
